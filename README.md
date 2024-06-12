@@ -15,5 +15,5 @@ This project analyzes HR data to identify trends and insights related to employe
 - **Top Factors Influencing Attrition**: Work-life balance, job satisfaction, and salary.
 
 ## Visualizations
-- **Attrition Rate Over Time**: ![Attrition Rate](images/attrition_rate.png)
-- **Employee Satisfaction Distribution**: ![Satisfaction Distribution](images/satisfaction_distribution.png)
+- **Attrition Rate Over Time**: ![Attrition Rate](https://github.com/rajdarshan95/HR_Analytic_PowerBi/blob/main/HR%20Analytics.pdf)
+- **Employee Satisfaction Distribution**: ![Satisfaction Distribution](https://github.com/rajdarshan95/HR_Analytic_PowerBi/blob/main/HR%20Analytics.pdf)
