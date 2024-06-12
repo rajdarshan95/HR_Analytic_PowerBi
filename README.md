@@ -1,5 +1,7 @@
 # HR Analytics Project
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
+
 ## Project Description
 This project analyzes HR data to identify trends and insights related to employee performance, attrition, and satisfaction. The analysis aims to provide actionable insights for improving HR policies and practices.
 
